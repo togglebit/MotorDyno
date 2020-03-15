@@ -1,0 +1,64 @@
+[ProjectFiles]
+Dyno.vpj
+[CurrentProject]
+curproj=Dyno.vpj
+[ProjectDates]
+Fueler.vpj=20200312193055227
+Dyno.vpj=20200312193120090
+[TreeExpansion]
+Fueler.vpj 1 1 1 1
+[State]
+SCREEN: 1366 768 1765 332 643 526 0 0 N 0 0 0 0 1126 336
+CWD: C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\Sensor.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=104 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0
+VIEW: LN=.1215 CL=12 LE=0 CX=11 CY=22 WI=5 BI=25 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\acquisition.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=8 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0
+VIEW: LN=.1877 CL=18 LE=0 CX=17 CY=13 WI=5 BI=4 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\acquisition.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=104 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0
+VIEW: LN=.1904 CL=19 LE=0 CX=18 CY=13 WI=5 BI=28 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=104 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0
+VIEW: LN=.4311 CL=49 LE=0 CX=48 CY=13 WI=5 BI=23 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=104 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0
+VIEW: LN=.4823 CL=6 LE=0 CX=5 CY=13 WI=5 BI=20 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol_def.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=8 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0
+VIEW: LN=.2367 CL=26 LE=0 CX=25 CY=13 WI=5 BI=22 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\Fueler.ino"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=0 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0
+VIEW: LN=.4822 CL=9 LE=0 CX=8 CY=14 WI=5 BI=24 HT=0 HN=0 HF=0 HC=4
+WINDOW: 100 100 1001 293 -1 -1 N  WF=0 WT=6 "OEM Fixed Font,12,0,1"
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\Sensor.cpp"
+VIEW: LN=.1215 CL=12 LE=0 CX=11 CY=22 WI=131 BI=25 HT=0 HN=0 HF=0 HC=4
+WINDOW: 125 125 951 359 -1 -1 N  WF=0 WT=7 "OEM Fixed Font,12,0,1"
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\acquisition.cpp"
+VIEW: LN=.1904 CL=19 LE=0 CX=18 CY=13 WI=136 BI=28 HT=0 HN=0 HF=0 HC=4
+WINDOW: 25 25 1026 236 -1 -1 N  WF=0 WT=8 "OEM Fixed Font,12,0,1"
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\acquisition.h"
+VIEW: LN=.1877 CL=18 LE=0 CX=17 CY=13 WI=139 BI=4 HT=0 HN=0 HF=0 HC=4
+WINDOW: 100 100 1001 293 -1 -1 N  WF=0 WT=4 "OEM Fixed Font,12,0,1"
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol.h"
+VIEW: LN=.4823 CL=6 LE=0 CX=5 CY=13 WI=132 BI=20 HT=0 HN=0 HF=0 HC=4
+WINDOW: 75 75 1001 293 -1 -1 N  WF=0 WT=3 "OEM Fixed Font,12,0,1"
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol_def.h"
+VIEW: LN=.2367 CL=26 LE=0 CX=25 CY=13 WI=133 BI=22 HT=0 HN=0 HF=0 HC=4
+WINDOW: 25 25 1001 293 -1 -1 N  WF=0 WT=2 "OEM Fixed Font,12,0,1"
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol.cpp"
+VIEW: LN=.4311 CL=49 LE=0 CX=48 CY=13 WI=134 BI=23 HT=0 HN=0 HF=0 HC=4
+WINDOW: 125 125 1001 293 -1 -1 M  WF=0 WT=1 "OEM Fixed Font,12,0,1"
+BUFFER: BN="C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\Fueler.ino"
+VIEW: LN=.1350 CL=68 LE=0 CX=67 CY=7 WI=135 BI=24 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol_def.h
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol.h
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\FIFOMath.cpp
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\FIFOMath.h
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\Sensor.cpp
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\acquisition.cpp
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\acquisition.h
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\protocol.cpp
+C:\Users\Togglebit\Dropbox\Perforce\Togglebit 2017\dkasamis_DanKasamis-PC_9894\Fueler\Fueler\Fueler.ino
